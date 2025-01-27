@@ -1,7 +1,7 @@
 import React,{useContext,useEffect,useState}  from "react";
 
 import topRes from "../ResChain.json";
-import { SearchContext } from "../contexts/searchContext";
+import { SearchContext } from "../contexts/SearchContext";
 
 const OnlineDelivery = () => {
 
