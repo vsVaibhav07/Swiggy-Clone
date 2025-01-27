@@ -1,7 +1,7 @@
 import React, { useContext, useState,useEffect } from "react";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 import topRes from "../ResChain.json";
-import { SearchContext } from "../contexts/searchContext";
+import { SearchContext } from "../contexts/SearchContext";
 
 const TopRes = () => {
     const [slide, setSlide] = useState(0); // Current slide index
