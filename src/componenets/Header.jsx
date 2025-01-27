@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from "react";
 import { RxCaretDown } from "react-icons/rx";
 import { IoSearch } from "react-icons/io5";
 
-import { SearchContext } from "../contexts/searchContext";
+import { SearchContext } from "../contexts/SearchContext";
 import Nav from "./Nav";
 
 const Header = () => {
