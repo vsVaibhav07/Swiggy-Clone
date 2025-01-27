@@ -3,7 +3,7 @@ import Header from "./componenets/Header"
 import OnlineDelivery from "./componenets/OnlineDelivery"
 import TopRes from "./componenets/TopRes"
 
-import { SearchProvider } from "./contexts/searchContext"
+import { SearchProvider } from "./contexts/SearchContext"
 
 function App() {
  
